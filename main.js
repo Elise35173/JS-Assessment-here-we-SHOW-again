@@ -310,7 +310,7 @@ while (i <= sampleArray.length) {
     if (sampleArray[i] < smallestIndex) {
         smallestIndex = sampleArray[i]
     }
-    i +=1
+    i += 1
 }
 
 kata17heading.append(smallestIndex)
@@ -327,7 +327,7 @@ while (index <= sampleArray.length) {
     if (sampleArray[index] > largestIndex) {
         largestIndex = sampleArray[index]
     }
-    index +=1
+    index += 1
 }
 
 kata18heading.append(largestIndex)
